@@ -1,2 +1,1 @@
-# WalmartCountryList
-walmart country list project
+# MyCountriesApp
